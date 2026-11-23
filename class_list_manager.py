@@ -11,13 +11,13 @@ def count_names(names):
     return len(names)
 
 
-# Ayan - Task 2: search_name
+# Sara - Task 2: search_name
 
 
 # Alulu - Task 3: sort_names
 
 
-# Sara - Task 8: remove_duplicates
+# Ayan - Task 8: remove_duplicates
 
 
 # ===== Each student adds her function ABOVE this line =====
