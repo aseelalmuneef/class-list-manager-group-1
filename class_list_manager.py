@@ -15,6 +15,8 @@ def count_names(names):
 
 
 # Alulu - Task 3: sort_names
+def sort_names(names):
+    return sorted(names)
 
 
 # Ayan - Task 8: remove_duplicates
@@ -30,6 +32,6 @@ def main():
     print("Number of names:", count_names(names))
 
     # Other students will add their function calls here
-
+    print("Names in alphabetical order:", sort_names(names))
 
 main()
