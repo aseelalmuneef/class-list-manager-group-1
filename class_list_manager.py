@@ -36,7 +36,7 @@ def main():
     print("Class list:", names)
 
     print("Number of names:", count_names(names))
-
+    
     # Other students will add their function calls here
     print("Names in alphabetical order:", sort_names(names))
     print("Names without duplicates:", remove_duplicates(names))
