@@ -12,6 +12,11 @@ def count_names(names):
 
 
 # Sara - Task 2: search_name
+def search_name(names, name):
+    if name in names:
+        return True
+    else:
+        return False
 
 
 # Alulu - Task 3: sort_names
