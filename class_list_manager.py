@@ -20,8 +20,8 @@ def search_name(names, name):
 
 
 # Alulu - Task 3: sort_names
-def sort_names(names):
-    return sorted(names)
+def sort_names(name):
+    return sorted(name)
 
 
 # Ayan - Task 8: remove_duplicates
